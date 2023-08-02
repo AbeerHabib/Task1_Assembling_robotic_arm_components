@@ -1,21 +1,12 @@
-# Robot-Arm
-Creating a robotic arm using 3D software
+# Robotic Arm
+The robotic arm is composed of various components, each has its own purpose. These components typically include:
+1. Base/Waist: This is the foundation of the arm where the circuitry is putted in, and then motors connect to.
+2. Shoulder: The shoulder is the second piece of the arm that connect to the links and facilitate movement.
+3. Links: These are the segments that connect to one another using joints, creating the arm's extended structure.
+4. Joints: they are usually connected to motors and enable the robot to move.
+5. End Effector/Gripper: The most important part of the robotic arm. It comes in various types and sizes depending on the tasks the robot is designed to perform.
 
-
-_____________________________________________________________________________________________________________________
-
-# Task 1: Connect robotic arm parts
-
-The robotic arm consists of several basic pieces that may differ in their names, generally it is:
-1. The base/waist, which is the part that the circuit putted in and then motors connect to.
-2. Shoulder, which is the second piece which connects to the links.
-3. Links, which connect to each other using joints.
-4. Joints, which usually connect to motors to allow the robot to move.
-5. End effector/Gripper, which is the most important part of the robot arm and it has many types and sizes and it depends on the type of work the robot is doing.
-
-
-
-# *steps:*
+## Steps for assembling the components of a robotic arm:
 1. Place the base so that the surface with a flat and largest area is on the ground, and the hole at the bottom of the base is in front of you, the wires are picked from this hole.
 2. Place the shoulder at the top of the base as a cover for it. One of the sides of the shoulder has a rectangular empty space which is designed to place the motor in, this side must be in the back, and the other side should face you.
 3. Place the first link vertically in front of the shoulder so that the flat surface is touching the shoulder, you may be confused about the ends of the link cause it similar to each other, so put the end that has a small extra part down.
