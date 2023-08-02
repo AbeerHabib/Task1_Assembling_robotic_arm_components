@@ -7,10 +7,8 @@ The robotic arm is composed of various components, each has its own purpose. The
 5. End Effector/Gripper: The most important part of the robotic arm. It comes in various types and sizes depending on the tasks the robot is designed to perform.
 
 ## Steps for assembling the components of a robotic arm:
-1. Place the base so that the surface with a flat and largest area is on the ground, and the hole at the bottom of the base is in front of you, the wires are picked from this hole.
-2. Place the shoulder at the top of the base as a cover for it. One of the sides of the shoulder has a rectangular empty space which is designed to place the motor in, this side must be in the back, and the other side should face you.
-3. Place the first link vertically in front of the shoulder so that the flat surface is touching the shoulder, you may be confused about the ends of the link cause it similar to each other, so put the end that has a small extra part down.
-4. Place the second link vertically behind the first link so that the holes designed for the joints fit together, notice that the side with two motor holes is the side that is not next to the first link.
-5. Place the end effector (gripper) in front of the second the holes designed for the joints fit together.
-
-_____________________________________________________________________________________________________________________
+1. Position the base and ensure that the surface with a flat area is on the ground. The hole at the bottom of the base should be facing towards you, as this is where the wires will be picked from.
+2. Attach the shoulder to the top of the base, using it as a cover. Make sure that the side of the shoulder with a rectangular empty space, designed for the motor placement, is at the back. The other side should face towards you.
+3. Align the first link vertically in front of the shoulder, ensuring that the flat surface of the link touches the shoulder. You may be confused between the ends of the link because they are similar to each other, so place the end that has a small extra part facing downwards.
+4. Place the second link vertically behind the first link, aligning the holes designed for the joints together. Note that the side with two motor holes should not be adjacent to the first link.
+5. Finally, position the end effector (gripper) in front of the second link, aligning the holes designed for the joints together.
